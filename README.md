@@ -1,2 +1,2 @@
-# DDPlugin
+# SummerWebRTC
 WebRTC Plugin for Unity 
