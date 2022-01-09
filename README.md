@@ -1,2 +1,2 @@
-# SummerWebRTC
-WebRTC Plugin for Unity 
+# NewsApp
+Android simple NewsApp
