@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Newsapp">
         <activity
-            android:name=".NewsActivity"
+            android:name=".ui.fragments.NewsActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

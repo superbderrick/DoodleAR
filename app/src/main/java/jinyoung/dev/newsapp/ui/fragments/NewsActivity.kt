@@ -1,7 +1,8 @@
-package jinyoung.dev.newsapp
+package jinyoung.dev.newsapp.ui.fragments
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import jinyoung.dev.newsapp.R
 
 class NewsActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
