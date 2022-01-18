@@ -1,2 +1,2 @@
-# NewsApp
-Android simple NewsApp
+# Walking
+Android simple Walking App
